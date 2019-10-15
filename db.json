@@ -1,5 +1,5 @@
 { 
-  "messages" {
+  "messages": {
   "headers": {
     "Date": ["Tue, 15 Oct 2019 11:37:49 GMT"],
     "Content-Type": ["application/json;charset=UTF-8"],
