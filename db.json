@@ -22,28 +22,28 @@
     "content": [{
       "id": 1,
       "state": "SUCCESSFUL",
-      "body": "",
+      "body": "Success success success Success success success",
       "error": null
     }, {
       "id": 2,
       "state": "SUCCESSFUL",
-      "body": "",
+      "body": "Success success success",
       "error": null
     }, {
       "id": 3,
       "state": "FAILED",
-      "body": "",
-      "error": ""
+      "body": "Failer failer failer failer",
+      "error": "Failer number 3"
     }, {
       "id": 4,
       "state": "FAILED",
-      "body": "",
-      "error": ""
+      "body": "Failer failer failer",
+      "error": "Failer number 4"
     }, {
       "id": 5,
       "state": "FAILED",
-      "body": "",
-      "error": ""
+      "body": "Failer failer",
+      "error": "Failer number 5"
     }],
     "metadata": {
       "size": 2000,
