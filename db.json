@@ -22,7 +22,7 @@
     "content": [{
       "id": 1,
       "state": "SUCCESSFUL",
-      "body": "Success success success Success success success",
+      "body": "Success success",
       "error": null
     }, {
       "id": 2,
